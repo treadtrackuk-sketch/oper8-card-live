@@ -18,8 +18,8 @@ const CONTACT_INFO = {
   emailLink: "mailto:oper8os@outlook.com",
   websiteLink: "https://www.oper8os.co.uk",
   xLink: "https://x.com/oper8os",
-  facebookLink: "https://www.https://www.facebook.com/profile.php?id=61589002482970
-  linkedinLink: "https://www.linkedin.com/in/oper8-os-083201408/
+  facebookLink: "https://www.facebook.com/profile.php?id=61589002482970",
+linkedinLink: "https://www.linkedin.com/in/oper8-os-083201408/",
 };
 
 function BootSequence({ onComplete }: { onComplete: () => void }) {
